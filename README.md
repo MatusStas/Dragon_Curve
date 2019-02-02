@@ -15,8 +15,8 @@ Rotate a copy of the entire image and attach it to the end of the original.
 
 #### Each step corresponds to the panel in the image below (read from left to right, top to bottom)
 
-[Process](process.png)
+![Process](process.png)
 
 #### Here you can see 19th iteration.
 
-[Dragon](dragon.png)
+![Dragon](dragon.png)
